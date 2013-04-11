@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    requirejs_plugins (0.0.1)
+    requirejs_plugins (0.1.0)
       rails (~> 3.2.0)
 
 GEM
