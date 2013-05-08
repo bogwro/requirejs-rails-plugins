@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    requirejs-rails-plugins (0.2.0)
+    requirejs_plugins (0.3.0)
       actionpack (>= 3.1)
       railties (>= 3.1)
       requirejs-rails
@@ -99,5 +99,5 @@ PLATFORMS
 DEPENDENCIES
   jquery-rails
   rails
-  requirejs-rails-plugins!
+  requirejs_plugins!
   sqlite3

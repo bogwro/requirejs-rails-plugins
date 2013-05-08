@@ -5,7 +5,7 @@ require 'requirejs_plugins/version'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = 'requirejs-rails-plugins'
+  s.name        = 'requirejs_plugins'
   s.version     = RequirejsPlugins::VERSION
   s.authors     = ['Bogumil Wrona']
   s.email       = %w(b.wrona@cre8newmedia.com)
