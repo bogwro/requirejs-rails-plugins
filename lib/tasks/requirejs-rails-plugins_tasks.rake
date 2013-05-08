@@ -1,4 +1,4 @@
 # desc "Explaining what the task does"
-# task :requirejs_plugins do
+# task :requirejs-rails-plugins do
 #   # Task goes here
 # end
